@@ -37,5 +37,5 @@ Feel free to submit pull requests.
 
 
 ## License
-Copyright (c) 2020 Chase Edwards    
+Copyright (c) 2020
 License Under the [MIT License](License)
